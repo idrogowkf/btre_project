@@ -5,6 +5,10 @@ psycopg2==2.7.5
 psycopg2-binary==2.7.5
 pytz==2018.5
 
+Nota: Configurado con BBDD PostgresSQL, ir a pgadmind y configurar base de datos.
+
+Nota: Ir a settting en carpeta btre, se debe configurar la BBDD.
+
 Para que los emails puedan enviarse desde la cuenta del desarrollador:
 https://www.google.com/settings/security/lesssecureapps
 Turn this to :ON
